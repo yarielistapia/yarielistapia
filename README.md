@@ -1,22 +1,23 @@
 
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
+<h1 align="center">Holiis, soy Elis. </h1>
+<h3 align="center">En realidad me llamo Yarielis, pero me gusta mas que me llamen Elis porque es mas corto y facil de pronunciar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**I am a creative, responsible, and friendly person who enjoys learning new things and taking on new challenges. I like designing, creating ideas, and improving my skills in graphic design and technology. I learn quickly, pay attention to detail, and enjoy helping others. I work well both independently and as part of a team, and I always try to give my best in everything I do.
+I also enjoy taking care of children. I am patient, caring, and responsible, and I like helping them learn, play, and feel safe. In addition, I love animals and believe that kindness, respect, and empathy are important in everyday life. I am always eager to learn, grow, and use my creativity to make a positive difference wherever I can.**
+
 
 -----
+:heartpulse: **Caring 💗**
+:cherry_blossom: **Kind 🌸**
+:rainbow: **Fun 🌈**
 
-:computer: **Software Engineer**  
-:eyeglasses: **Hardcore Geek (is geek still used?)**  
-:oncoming_automobile: **SpaceX, technology, and simulator fan**  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Encuentrame en:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juandgo" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/juandago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandgo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juandgo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandgo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juandgo" height="30" width="40" /></a>
 <a href="https://x.com/GoJuand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankgrijalba" height="30" width="40" /></a>
 </p>
 
@@ -25,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
+<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -58,7 +59,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandgo&show_icons=true&locale=en&layout=compact" alt="juandgo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgo&show_icons=true&locale=en" alt="juandgo" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandgo&" alt="juandgo" /></p> -->
-
+ -->
 
 
 [website]: https://juandgo.com/
